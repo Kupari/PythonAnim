@@ -1,2 +1,4 @@
 # PythonAnim
-Animations with Python
+## Animations with Python
+
+(Just for fun!)
